@@ -1,4 +1,4 @@
-def capitalize_first_letter(text):
+def capitalize_first_letter(tex):
     return text.capitalize()
 
 if __name__ == "__main__":
